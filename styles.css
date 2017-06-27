@@ -4,7 +4,11 @@ img {
 body {
     text-align: center;
     font-family: "Arial";
+    background-color: rgb(123,456,78);
 }
-body {
-    background: url(giraffe_directory.jpg );
+p {
+    color: blue;
+}
+img {
+    height: 200px;
 }
