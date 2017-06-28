@@ -1,0 +1,17 @@
+img {
+    width: 200px;
+}
+body {
+    text-align: center;
+    font-family: "Arial";
+    background-image:url(https://www.planwallpaper.com/static/images/9Zk2kcY.jpg);
+}
+#head {
+    color: red;
+}
+p {
+    color: red;
+}
+img {
+    height: 200px;
+}

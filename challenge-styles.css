@@ -1,0 +1,22 @@
+#header {
+    color: red;
+}
+#row1 {
+    text-align: left
+}
+#row2 {
+    text-align: left;
+    background-color: pink;
+}
+ #row3 {
+    text-align: left;
+     background-color: red;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
+#list {
+    text-align: center;
+    background-color: yellow;
+}
