@@ -1,0 +1,18 @@
+#thing {
+    color: rgb(0,255,25);
+    font-family: cursive;
+    background-color: rgb(0, 0, 0)
+
+}
+#go {
+    background-color: rgb(0,255,25)
+}
+#textinput {
+    width: 100px
+}
+body {
+  text-align: center
+}
+body {
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJxgrJTHbosawQPkx7R6xz1CDTnM2ZX8_XbNHtI9zG1YWxuD4U0Kf1ECE)   
+}    
